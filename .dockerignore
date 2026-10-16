@@ -1,0 +1,7 @@
+frontend/
+frontend_v1_backup/
+**/__pycache__/
+**/node_modules/
+venv/
+.git/
+backend/.sentinel_secret

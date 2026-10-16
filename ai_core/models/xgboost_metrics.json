@@ -1,0 +1,20 @@
+{
+  "model": "XGBoost",
+  "threshold": 0.89,
+  "threshold_selection_rule": "best_f1_fallback_constraints_not_met",
+  "threshold_selected_using": "grouped_validation_from_train_only",
+  "train_rows": 108071,
+  "test_rows": 87981,
+  "train_pcap_sources": 12,
+  "test_pcap_sources": 6,
+  "accuracy": 0.948773030540685,
+  "precision": 0.645035313668467,
+  "recall": 0.9706176544136034,
+  "f1": 0.7750212149952578,
+  "roc_auc": 0.9727261341609736,
+  "pr_auc": 0.6474061745325278,
+  "true_negatives": 75711,
+  "false_positives": 4272,
+  "false_negatives": 235,
+  "true_positives": 7763
+}
